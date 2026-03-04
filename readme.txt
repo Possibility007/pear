@@ -1,1 +1,1 @@
-Images  involved in the paper "ALGC-DTC：A unified architecture for affine-aware fruit detection, cross-frame tracking, and counting in modern pear orchards"
+Some images  involved in the paper "ALGC-DTC：A unified architecture for affine-aware fruit detection, cross-frame tracking, and counting in modern pear orchards"
